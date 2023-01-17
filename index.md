@@ -4,7 +4,7 @@
 
 ### AirBnB
 
-[link](https://github.com/parvatsapkota/airbnb)
+[link](https://github.com/parvatsapkota/airbnb)<br>
 <img src="https://github.com/parvatsapkota/airbnb/blob/main/location_recommendation.JPG"/>
 
 ---
@@ -17,7 +17,7 @@
 ---
 ### LinkedIn Jobs
 
-[link](https://github.com/parvatsapkota/linkedinjobs)
+[link](https://github.com/parvatsapkota/linkedinjobs)<br>
 <img src="https://github.com/parvatsapkota/linkedinjobs/blob/main/jobs_visualization.JPG"/>
 
 
@@ -36,5 +36,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Follow me on <a href="https://github.com/parvatsapkota">GitHub</a></p>
 <!-- Remove above link if you don't want to attibute -->
