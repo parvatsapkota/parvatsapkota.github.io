@@ -1,29 +1,34 @@
-## Portfolio
+## Portfolio Projects
 
 ---
 
-### Project 1
+### AirBnB
 
-[Project 1 Title](/sample_page)
+[link](https://github.com/parvatsapkota/airbnb)
 <img src="https://github.com/parvatsapkota/airbnb/blob/main/location_recommendation.JPG"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Walmart
+
+[link](https://github.com/parvatsapkota/walmart)
+<img src="https://github.com/parvatsapkota/walmart/blob/main/Dashboard.JPG"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### LinkedIn Jobs
+
+[link](https://github.com/parvatsapkota/linkedinjobs)
+<img src="https://github.com/parvatsapkota/linkedinjobs/blob/main/jobs_visualization.JPG"/>
+
 
 ---
 
-### Category Name 2
+### Covid Visualization
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[link](https://github.com/parvatsapkota/covid-visualization)
+<img src="https://github.com/parvatsapkota/covid-visualization/blob/main/Covid_visualization.JPG"/>
+
+
 
 ---
 
