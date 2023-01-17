@@ -5,7 +5,7 @@
 ### AirBnB
 
 [link](https://github.com/parvatsapkota/airbnb)<br>
-<img src="https://github.com/parvatsapkota/airbnb/blob/main/location_recommendation.JPG"/>
+<img src="/images/location_recommendation.jpg"/>
 
 ---
 
