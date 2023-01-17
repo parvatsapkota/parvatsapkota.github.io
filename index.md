@@ -12,13 +12,13 @@
 ### Walmart
 
 [link](https://github.com/parvatsapkota/walmart)
-<img src="https://github.com/parvatsapkota/walmart/blob/main/Dashboard.JPG"/>
+<img src="/images/Dashboard.jpg"/>
 
 ---
 ### LinkedIn Jobs
 
 [link](https://github.com/parvatsapkota/linkedinjobs)<br>
-<img src="https://github.com/parvatsapkota/linkedinjobs/blob/main/jobs_visualization.JPG"/>
+<img src="/images/jobs_visualization.JPG"/>
 
 
 ---
@@ -26,7 +26,7 @@
 ### Covid Visualization
 
 [link](https://github.com/parvatsapkota/covid-visualization)
-<img src="https://github.com/parvatsapkota/covid-visualization/blob/main/Covid_visualization.JPG"/>
+<img src="/images/Covid_visualization.JPG"/>
 
 
 
